@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="aposentadoria.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <TopLine Value="11"/>
+        <CursorPos Y="34"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\..\..\..\questão2_aposentadoria.pas"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="5">
+      <Position>
+        <Filename Value="aposentadoria.lpr"/>
+        <Caret Line="15" Column="15"/>
+      </Position>
+      <Position>
+        <Filename Value="aposentadoria.lpr"/>
+        <Caret Line="12" Column="15"/>
+      </Position>
+      <Position>
+        <Filename Value="aposentadoria.lpr"/>
+        <Caret Line="30" Column="45" TopLine="9"/>
+      </Position>
+      <Position>
+        <Filename Value="aposentadoria.lpr"/>
+        <Caret Column="10"/>
+      </Position>
+      <Position>
+        <Filename Value="aposentadoria.lpr"/>
+        <Caret Line="22" Column="20" TopLine="11"/>
+      </Position>
+      <Position>
+        <Filename Value="aposentadoria.lpr"/>
+        <Caret Line="23" Column="33"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

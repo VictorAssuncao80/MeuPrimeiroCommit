@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="contadordepalavras.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="ContadorDePalavras"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="6"/>
+        <CursorPos X="5" Y="33"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="1">
+      <Position>
+        <Filename Value="contadordepalavras.lpr"/>
+        <Caret Line="31" Column="14" TopLine="4"/>
+      </Position>
+      <Position>
+        <Filename Value="contadordepalavras.lpr"/>
+        <Caret Line="30"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

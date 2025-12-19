@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="vetoraleatorio.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="VetorAleatorio"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="17"/>
+        <CursorPos Y="36"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="2">
+      <Position>
+        <Filename Value="vetoraleatorio.lpr"/>
+        <Caret Line="50" TopLine="25"/>
+      </Position>
+      <Position>
+        <Filename Value="vetoraleatorio.lpr"/>
+        <Caret Column="24"/>
+      </Position>
+      <Position>
+        <Filename Value="vetoraleatorio.lpr"/>
+        <Caret Line="46" TopLine="21"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode="default">
+        <Mode Name="default"/>
+      </Modes>
+    </RunParams>
+    <HistoryLists>
+      <List Name="LaunchingApplication" Type="File" Count="1">
+        <Item1 Value="C:\WINDOWS\system32\cmd.exe /C ${TargetCmdLine}"/>
+      </List>
+    </HistoryLists>
+  </ProjectSession>
+</CONFIG>

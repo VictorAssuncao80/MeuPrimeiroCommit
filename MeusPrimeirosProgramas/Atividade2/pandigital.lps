@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="pandigital.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Pandigital"/>
+        <IsVisibleTab Value="True"/>
+        <UsageCount Value="24"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="8">
+      <Position>
+        <Filename Value="pandigital.lpr"/>
+        <Caret Line="33" Column="21" TopLine="25"/>
+      </Position>
+      <Position>
+        <Filename Value="pandigital.lpr"/>
+        <Caret Line="20" Column="13" TopLine="6"/>
+      </Position>
+      <Position>
+        <Filename Value="pandigital.lpr"/>
+        <Caret Line="62" Column="26" TopLine="55"/>
+      </Position>
+      <Position>
+        <Filename Value="pandigital.lpr"/>
+        <Caret Line="48" Column="7" TopLine="47"/>
+      </Position>
+      <Position>
+        <Filename Value="pandigital.lpr"/>
+        <Caret Line="79" Column="5" TopLine="52"/>
+      </Position>
+      <Position>
+        <Filename Value="pandigital.lpr"/>
+        <Caret Line="56" Column="20" TopLine="52"/>
+      </Position>
+      <Position>
+        <Filename Value="pandigital.lpr"/>
+        <Caret Line="2" Column="7"/>
+      </Position>
+      <Position>
+        <Filename Value="pandigital.lpr"/>
+        <Caret Line="64"/>
+      </Position>
+      <Position>
+        <Filename Value="pandigital.lpr"/>
+        <Caret Line="4" Column="65"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+    <HistoryLists>
+      <List Name="LaunchingApplication" Type="File" Count="1">
+        <Item1 Value="C:\WINDOWS\system32\cmd.exe /C ${TargetCmdLine}"/>
+      </List>
+    </HistoryLists>
+  </ProjectSession>
+</CONFIG>

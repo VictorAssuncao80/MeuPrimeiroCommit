@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="normalizacaovetor.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="NormalizacaoVetor"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos Y="32"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="12">
+      <Position>
+        <Filename Value="normalizacaovetor.lpr"/>
+        <Caret Line="8" Column="10"/>
+      </Position>
+      <Position>
+        <Filename Value="normalizacaovetor.lpr"/>
+        <Caret Line="3" Column="40"/>
+      </Position>
+      <Position>
+        <Filename Value="normalizacaovetor.lpr"/>
+        <Caret Line="15" Column="5"/>
+      </Position>
+      <Position>
+        <Filename Value="normalizacaovetor.lpr"/>
+        <Caret Line="8" Column="10"/>
+      </Position>
+      <Position>
+        <Filename Value="normalizacaovetor.lpr"/>
+        <Caret Line="16" Column="45"/>
+      </Position>
+      <Position>
+        <Filename Value="normalizacaovetor.lpr"/>
+        <Caret Line="14" Column="37"/>
+      </Position>
+      <Position>
+        <Filename Value="normalizacaovetor.lpr"/>
+        <Caret Line="22" Column="6"/>
+      </Position>
+      <Position>
+        <Filename Value="normalizacaovetor.lpr"/>
+        <Caret Line="21" Column="23"/>
+      </Position>
+      <Position>
+        <Filename Value="normalizacaovetor.lpr"/>
+        <Caret Line="3" Column="19"/>
+      </Position>
+      <Position>
+        <Filename Value="normalizacaovetor.lpr"/>
+        <Caret Line="11" Column="24"/>
+      </Position>
+      <Position>
+        <Filename Value="normalizacaovetor.lpr"/>
+        <Caret Line="21" Column="45"/>
+      </Position>
+      <Position>
+        <Filename Value="normalizacaovetor.lpr"/>
+        <Caret Line="24" Column="19"/>
+      </Position>
+      <Position>
+        <Filename Value="normalizacaovetor.lpr"/>
+        <Caret Column="16"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

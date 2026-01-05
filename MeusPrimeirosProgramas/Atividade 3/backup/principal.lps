@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="principal.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos X="15" Y="44"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="mathutils.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="10"/>
+        <CursorPos X="41" Y="21"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="6">
+      <Position>
+        <Filename Value="mathutils.pas"/>
+        <Caret Column="7"/>
+      </Position>
+      <Position>
+        <Filename Value="principal.lpr"/>
+        <Caret Line="21" Column="9"/>
+      </Position>
+      <Position>
+        <Filename Value="mathutils.pas"/>
+        <Caret Line="53" Column="11" TopLine="31"/>
+      </Position>
+      <Position>
+        <Filename Value="mathutils.pas"/>
+        <Caret Line="21" Column="9" TopLine="3"/>
+      </Position>
+      <Position>
+        <Filename Value="mathutils.pas"/>
+        <Caret Line="9" Column="33"/>
+      </Position>
+      <Position>
+        <Filename Value="mathutils.pas"/>
+        <Caret Line="6" Column="42"/>
+      </Position>
+      <Position>
+        <Filename Value="mathutils.pas"/>
+        <Caret Line="21" Column="41" TopLine="10"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
